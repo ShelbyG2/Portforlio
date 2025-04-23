@@ -1,0 +1,105 @@
+%PDF-1.7
+1 0 obj
+<</Type/Catalog/Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type/Pages/Count 1/Kids[3 0 R]>>
+endobj
+3 0 obj
+<</Type/Page/Parent 2 0 R/Resources<</Font<</F1<</Type/Font/Subtype/Type1/BaseFont/Helvetica>>/F2<</Type/Font/Subtype/Type1/BaseFont/Helvetica-Bold>>>>>/Contents 4 0 R/MediaBox[0 0 612 792]>>
+endobj
+4 0 obj
+<</Length 2000>>
+stream
+BT
+/F2 24 Tf
+50 700 Td
+(John Doe) Tj
+/F1 12 Tf
+0 -20 Td
+(Fullstack Developer) Tj
+0 -15 Td
+(San Francisco, CA) Tj
+0 -15 Td
+(hello@johndoe.com | (234) 567-890) Tj
+
+/F2 14 Tf
+0 -30 Td
+(Professional Summary) Tj
+/F1 12 Tf
+0 -20 Td
+(Experienced fullstack developer with 6+ years of expertise in building modern web applications.) Tj
+0 -15 Td
+(Specialized in React, Node.js, and TypeScript. Strong focus on creating exceptional user experiences) Tj
+0 -15 Td
+(and scalable backend solutions.) Tj
+
+/F2 14 Tf
+0 -30 Td
+(Experience) Tj
+/F1 12 Tf
+0 -20 Td
+(Senior Frontend Developer - TechCorp Inc.) Tj
+0 -15 Td
+(2020 - Present) Tj
+0 -15 Td
+(• Led development of enterprise-scale React applications) Tj
+0 -15 Td
+(• Implemented CI/CD pipelines and improved deployment efficiency by 40%) Tj
+0 -15 Td
+(• Mentored junior developers and conducted code reviews) Tj
+
+0 -20 Td
+(Fullstack Developer - Startup Studio) Tj
+0 -15 Td
+(2018 - 2020) Tj
+0 -15 Td
+(• Built and maintained multiple client projects using React and Node.js) Tj
+0 -15 Td
+(• Implemented real-time features using WebSocket) Tj
+0 -15 Td
+(• Optimized database queries resulting in 50% faster load times) Tj
+
+/F2 14 Tf
+0 -30 Td
+(Skills) Tj
+/F1 12 Tf
+0 -20 Td
+(• Frontend: React, TypeScript, Next.js, Tailwind CSS) Tj
+0 -15 Td
+(• Backend: Node.js, Express, PostgreSQL, MongoDB) Tj
+0 -15 Td
+(• Tools: Git, Docker, AWS, CI/CD, Jest) Tj
+
+/F2 14 Tf
+0 -30 Td
+(Education) Tj
+/F1 12 Tf
+0 -20 Td
+(Bachelor of Science in Computer Science) Tj
+0 -15 Td
+(University of Technology - 2017) Tj
+
+/F2 14 Tf
+0 -30 Td
+(Certifications) Tj
+/F1 12 Tf
+0 -20 Td
+(• AWS Certified Developer - Associate) Tj
+0 -15 Td
+(• MongoDB Certified Developer) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f
+0000000010 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000300 00000 n
+trailer
+<</Size 5/Root 1 0 R>>
+startxref
+2354
+%%EOF
