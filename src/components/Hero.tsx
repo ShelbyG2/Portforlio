@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Github as GitHub, Linkedin, FileText, ArrowDown } from 'lucide-react';
 import Button from './ui/Button';
 import { useTypewriter } from '../hooks/useTypewriter';
-import profileImage from '../assets/profile.jpg';
+import profileImage from '../assets/profile.png';
 
 const Hero = () => {
   const typedText = useTypewriter({
